@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech of King Henry, IV of France to his parliament wherein he rebukes them for opposing the Jesuits, and shews his disbelief of their plots and attempts against his person, after the attempts of Chastel and Barriers had miscarried, and those traitors executed, and some time before that of Ravilliac took effect : with other passages on that occasion, communicated in a letter to Rome by a Jesuit and now rendred out of the Italian.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43329</idno>
+            <idno type="STC">Wing H1454</idno>
+            <idno type="STC">ESTC R21183</idno>
+            <idno type="EEBO-CITATION">12405390</idno>
+            <idno type="OCLC">ocm 12405390</idno>
+            <idno type="VID">61379</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43329)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61379)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 941:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech of King Henry, IV of France to his parliament wherein he rebukes them for opposing the Jesuits, and shews his disbelief of their plots and attempts against his person, after the attempts of Chastel and Barriers had miscarried, and those traitors executed, and some time before that of Ravilliac took effect : with other passages on that occasion, communicated in a letter to Rome by a Jesuit and now rendred out of the Italian.</title>
+                  <author>Henry IV, King of France, 1553-1610.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jacob Tonson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+                  <note>Advertisement: p. [11]-[12]</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesuits.</term>
+               <term>France --  History --  Bourbons, 1589-1789.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61379:1"/>
+            <pb facs="tcp:61379:1"/>
+            <p>A SPEECH OF King Henry, IV. OF FRANCE TO HIS PARLIAMENT.</p>
+            <p>WHEREIN, He Rebukes them for Oppoſing the Jeſuits; AND SHEWS His Disbelief of their Plots and Attempts againſt his Perſon, After the Attemps of <hi>Chastel</hi> and <hi>Barriers</hi> had miſcarried, and thoſe Traitors Executed, AND Some time before that of <hi>Ravilliac</hi> took Effect.</p>
+            <p>With other Paſſages on that Occaſion, Communicated in a Letter to <hi>Rome</hi> by a Jeſuit.</p>
+            <p>And now Rendred out of the Italian.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Jacob Tonſon</hi> at the <hi>Judges Head</hi> in <hi>Chancery Lane.</hi> MDCLXXXI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:61379:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:61379:2"/>
+            <head>THE MOST Chriſtian Kings ANSWER TO THE COURT OF PARLIAMENT About the Reſtitution of the JESUITS.</head>
+            <p>I Take kindly the Care you have of my Perſon, and of my State, though you underſtand very little either of the one or the other.</p>
+            <p>I have all your Sentiments and Conceits in my Head, but you comprehend not mine in yours.</p>
+            <p>You have propos'd to me the Difficulties, which to you ſhow Great and Conſiderable, And you had not the wit to conſider, that whatever you have ſaid, has already been weigh'd and conſi<g ref="char:EOLhyphen"/>dered by me this eight or nine years.</p>
+            <p>You would fain appear ſome body by your Knowledge in Mat<g ref="char:EOLhyphen"/>ters of State, when in truth you skill them no more, than I under<g ref="char:EOLhyphen"/>ſtand to frame a Declaration or Proceſs at Law.</p>
+            <p>I would have you therefore recollect what you ſaid in the Confe<g ref="char:EOLhyphen"/>rence at <hi>Paris. That it would have been happy for the Catholicks, if all
+<pb n="4" facs="tcp:61379:3"/> had carryed themſelves like one or two Jeſuits (whom you found there very opportunely;) And if we had not known their Ambition at this day, as well as their Sufficiency.</hi>
+            </p>
+            <p>Now am I amaz'd to think whereupon you found this Opinion of Ambition, in Perſons that refuſe Dignities and Prelaces when proffer'd them: Perſons that make a vow never to aſpire, nor do they pretend or ſeek in this World other, than to ſerve without Re<g ref="char:EOLhyphen"/>compenſe all ſuch as are willing to accept of their Service.</p>
+            <p>And if it be this name of Jeſuit that offends you, why I pray do not you as well quarrel with thoſe that call themſelves the <hi>Religious of the Trinity?</hi> And if you judge thoſe ſuch like as theſe of the So<g ref="char:EOLhyphen"/>ciety of Jeſus, why don't you ſay that your Daughters are as good as thoſe in <hi>Spain</hi> that are called the Daughters of God, and that your ſelves are as much of the Order of the Holy Ghoſt, as my Knights of that Order? for my part I had rather be nam'd a Jeſuit, than a Jacobin or a Benedictin.</p>
+            <p>Then for the <hi>Sorbon,</hi> of which you ſpeak, if they have diſliked the Jeſuits, the reaſon was, their want of underſtanding them. And if the old Doctors out of a jealouſie would not allow them, the younger ſort ſtudies amongſt them and Commends them.</p>
+            <p>What, though <hi>they have not hitherto been in</hi> France <hi>unleſs by way of Toleration?</hi> God has reſerv'd that Glory for me (and I look upon't as his ſpecial Favour) to eſtabliſh them. If they have not been in <hi>France</hi> ſave with a <hi>Proviſo,</hi> they ſhall now be amongſt us by an Edict, and by a Decree. The will of my Predeceſſors was to re<g ref="char:EOLhyphen"/>ceive them, and 'tis my Pleaſure to eſtabliſh them.</p>
+            <p>
+               <hi>The Univerſity is againſt them,</hi> the only Cauſe is, they do better, as appears by the great Confluence of Schollars to their College; And becauſe they are not incorporated into the ſaid Univerſity. But they will not now be againſt them, when I command that they receive them. And for my <hi>Pardoning them</hi> you ſhall be glad to Pe<g ref="char:EOLhyphen"/>tition me.</p>
+            <p>You ſay <hi>that in your Parliament the moſt Learned had not their Know<g ref="char:EOLhyphen"/>ledge from the Society of Jeſus.</hi> If the Learnedſt be the oldeſt, 'tis ve<g ref="char:EOLhyphen"/>ry true; becauſe they got their Learning before the Jeſuits were known in <hi>France.</hi> But I have heard ſay, that others will tell you another tale, particularly many of your Members. And we obſerve that by their abſence, your Univerſity is become a Deſert, and the Schollars go after them notwithſtanding your Decrees, even out of the Kingdom.</p>
+            <p>To call them <hi>a company of factious Fellows,</hi> becauſe they follow'd
+<pb n="5" facs="tcp:61379:3"/> the <hi>League,</hi> this was purely the injury of the times: They thought they did well, but were deceiv'd like many others. And I aſſure my ſelf that this very thing, together with the Favors that I will Confer on them, ſhall make them to me as affectionate, or more than to the <hi>League.</hi>
+            </p>
+            <p>You object <hi>that they draw to them young Men of good Parts, And cull out the best from amongſt them.</hi> And for this Reaſon have I the greater Eſteem for them, do not we alſo make choice of the beſt Soldiers for the War? And, if Favor took not place with you, would you ever admit any that was not worthy of your Company, and fit to ſit in Parliament? Should they provide for you ignorant Teach<g ref="char:EOLhyphen"/>ers or Preachers, would you not laugh at them? Yet, now they are Men of good Sence, you are angry.</p>
+            <p>As to the <hi>Temporal Goods,</hi> you mention, 'tis a Slander, they had not in all <hi>France</hi> more than twelve or fifteen thouſand Crowns Re<g ref="char:EOLhyphen"/>venue in the total. And I know that, out of their Income, they have maintained at <hi>Bruges</hi> or at <hi>Lions</hi> ſeven or eight Regents, and there they were themſelves to the number of three hundred and fourty. And ſhould there be any Inconvenience in this matter, I ſhall provide againſt it in my Edict.</p>
+            <p>The <hi>Vow of Obedience</hi> which they make to the Pope, will not oblige them farther, or more to follow Strangers, than the Oath of Fidelity which they make to me, nor will they undertake any Deſign againſt their Natural Prince. But the Vow they make to the Pope is not on all occaſions. For they make it when the Pope would ſend them to Convert the Infidels. And indeed we ſee that by their means God has converted the <hi>Indies,</hi> and ſo ma<g ref="char:EOLhyphen"/>ny heretical Countries. And this is, what I have often ſaid, if the Spaniard finds a Benefit by them, why ſhall not <hi>France</hi> employ them? are we in a worſe Condition than others? is <hi>Spain</hi> more taking than <hi>France?</hi> if they are ſo in their own Conceit, why ſhould not <hi>France</hi> ſtand as fair in the Opinion of others?</p>
+            <p>You ſay they work <hi>themſelves in as they can get opportunity,</hi> do not others alſo the ſame thing? I my ſelf got into a Kingdom as I could gain it. But we muſt needs believe, and affirm that their Patience is prodigious; for my part I admire it. Foraſmuch as by Patience, and a good Life, they come to the end of every thing. Nor have I the worſe Opinion of them becauſe they are ſtrict obſervers of their Inſtitutions, this is that that will maintain them. Therefore have not I in any part changed their Rules, but rather will hold them to them. And if I have limited them under ſome
+<pb n="6" facs="tcp:61379:4"/> Conditions which may not pleaſe Strangers, 'twere better that Strangers take Law from us, than we from them. And take it as they have a mind, I and my Subjects underſtand one another.</p>
+            <p>What if the <hi>Church-men</hi> are upon their Formalities againſt the Je<g ref="char:EOLhyphen"/>ſuit? So it has always been, that Ignorance hated Science. And I have obſerv'd, that when I began to ſpeak of eſtabliſhing the Je<g ref="char:EOLhyphen"/>ſuits, two ſorts of men eſpecially oppoſed me, the Hugonots, and the Church-men, of a ſcandalous Life. And both the one and the other have made me have the greater eſteem for them.</p>
+            <p>As for the <hi>Opinion they have of the Pope,</hi> I know they have a ſin<g ref="char:EOLhyphen"/>gular Reſpect for him, ſo have I. But you ſay not that in <hi>Rome</hi> and elſewhere they ſtand not right in that point. On all occaſions I aſſure my ſelf that they ſay not more concerning the Popes Au<g ref="char:EOLhyphen"/>thority, than others do. And I'am confident that ſhould we go a<g ref="char:EOLhyphen"/>bout to arraign their Opinions, at the ſame time we ſhould arraign the Catholick Church.</p>
+            <p>Then for their <hi>Doctrine to free the Church-men from my Obedience,</hi> and their <hi>teaching Youth to kill Kings,</hi> we ought on the one hand to ſee what they ſay, and whether it be true that they indeed ſo teach Youth. One thing makes me believe that this is not true, <hi>viz.</hi> thirty years and more have paſt ſince they taught Schollars in <hi>France,</hi> and one hundred thouſand have gone from their Colledges, Perſons of all Conditions have liv'd amongſt them, and with them find one out of this great number, that ſhall maintain he has heard that they uſe any ſuch Language, or any other that comes near it, which is object<g ref="char:EOLhyphen"/>ed againſt them. Or, which is more, there are Miniſters of the Hu<g ref="char:EOLhyphen"/>gonots, which Miniſters have liv'd many years amongſt the Je<g ref="char:EOLhyphen"/>ſuits, let them give Information of the Jeſuits Lives, 'tis to be pre<g ref="char:EOLhyphen"/>ſum'd they will ſay the worſt they can, if for no other cauſe, yet to excuſe themſelves for having left them. Now I know that this has been tryed, and from them was had this anſwer, that, truly, as for the manners of the Jeſuits, they ſaw no cauſe to ſpeak ill of them. And then for their Doctrine, that is ſufficiently known. In ſhort, few perſons would ſubmit to ſuch a tryal, and the Con<g ref="char:EOLhyphen"/>ſcience had need be very ſecure, when it refers it ſelf to the Te<g ref="char:EOLhyphen"/>ſtimony of its Enemies.</p>
+            <p>As to <hi>Barrierre</hi> who would have murdered me, 'tis ſo far, ſo very far from truth, that a Jeſuit confeſſed him, as you alledge, that on the contrary I was adviſed by a Jeſuit that ſuch a Deſign was in hand. And another Jeſuit told <hi>Barrierre</hi> that he would be damn'd, if he ſhould dare to undertake ſuch a Fact.</p>
+            <pb n="7" facs="tcp:61379:4"/>
+            <p>As to <hi>Chaſtel,</hi> the Rack could not extort from him any Accuſation againſt <hi>Conerand</hi> or any other Jeſuit. And if it had not in truth been ſo, why did you ſpare them; and not puniſh them when you had them in your hands? And that other, who was executed, was up<g ref="char:EOLhyphen"/>on another Subject, which was ſaid to be found amongſt his Wri<g ref="char:EOLhyphen"/>tings. But, ſuppoſing it had been ſo, that a Jeſuit had ſtruck the blow; muſt needs all the Apoſtles ſuffer for one <hi>Judas?</hi> or I make ſatisfaction for all the Robberies, and Rogueries committed by the Soldiers that are liſted in my Armies? God at this time would humble me, and ſave me, and I render him thanks, he teaches me to pardon Offences, and I do ſo willingly for his ſake. Moreover I every day pray for my Enemies, ſo far is it from me to remem<g ref="char:EOLhyphen"/>ber them as you (little like Chriſtians) invite me to do. I take not this well at your hands, we have all need of Gods Mercy.</p>
+            <p>As to the <hi>Diſpenſation neceſſary for my Siſters Marriage,</hi> his Holi<g ref="char:EOLhyphen"/>neſs has at length accorded it. And I am very certain the Fathers Jeſuits were our friends in that Affair. And if a Spaniſh Cardinal Jeſuit helped me to obtain the Bleſſing of our Holy Father when I turn'd Catholick; why then would you have me ſuſpect the French, my natural Subjects! I ſhall know of them what I ſhall judge; that I ought to know; nor ſhall I communicate to them, ſave what I have a mind. Let me alone to the Management and Conduct of this Company, I am now the Maſter and Governor of ſuch as are far more headſtrong and more hard to be ruled with<g ref="char:EOLhyphen"/>out more ado, obey my Will.</p>
+            <p>His Majeſty after this Speech retir'd to the Chappel of <hi>Borbon</hi> to hear <hi>Vespers,</hi> and he was ſcarce come thither, before the Fame of his marvellous anſwer to the Parliament was ſpread about all the Court, inſomuch that Father <hi>Cotton</hi> receiv'd the Applauſes and Con<g ref="char:EOLhyphen"/>gratulations from all quarters, which made him go to throw him<g ref="char:EOLhyphen"/>ſelf at his Majeſties feet, and give him thanks in the name of all the Society of Jeſus; after which the King, giving him the kind<g ref="char:EOLhyphen"/>eſt words, began anew to treat with him about the means to fill <hi>France,</hi> and place Jeſuits in every great City. And thence took in<g ref="char:EOLhyphen"/>to Conſideration the founding of ſome Schools, and the promoting of this Affair as neceſſary for the State, and Welfare of the King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>Now upon the account of this Eſtabliſhment of the Company, the King continued to ſolicite vigorouſly, and by the means of Monſieur <hi>Baron,</hi> and of the Chancellor to preſs the Parliament to come to a Concluſion, and not farther ſhew themſelves obſtinate
+<pb n="8" facs="tcp:61379:5"/> againſt his Majeſties Will. Whereupon Monſieurs <hi>Martine</hi> and <hi>Servin</hi> produced a writing which contain'd certain ſtrange Modifications, as for inſtance, that the Jeſuits ſhould <hi>not acknowledge their General in Italy.</hi> And that they ſhould be <hi>admitted in France with a Proviſo,</hi> with o<g ref="char:EOLhyphen"/>ther impertinencies of the ſame ſtuff. And becauſe they pretend<g ref="char:EOLhyphen"/>ed ſtrongly the good of the Kingdom, and ſervice of the King, his Majeſty, (who was advertis'd thereof) order'd that for the general ſatisfaction of all, the Chancellor, ſhould ſummon Monſieur <hi>Sel<g ref="char:EOLhyphen"/>lier, Castelneauf, de Meſce,</hi> the Preſident <hi>Crianine,</hi> and Mr. <hi>Villeroy,</hi> to hear their grievances and ſecond Remonſtrances. Then was all examin'd, and it was determin'd that, upon the forfeiture of their places, they ſhould be ſilent, and make their Concluſions conformable to the Kings Will, thereupon they departed diſcon<g ref="char:EOLhyphen"/>tented. His Majeſty made them be call'd the next day, and it was the laſt day of the year; 1<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>3. the Eve of the Circumciſion of our Saviour, the Feaſt of the Society of Jeſus, appointing them by three ſeveral Meſſages to come to him two hours before noon; then they came, but an hour later than the appointment.</p>
+            <p>The King came to them from his Chamber, and in the preſence of ten or twelve reprov'd them ſharply for their Preſumption, and Diſobedience. Taxing them both <hi>with their natural</hi> and their <hi>acquired Imperfections, notorious to every body;</hi> Telling them <hi>that they had many Books, but had not yet well ſtudied in that of Experience, nor in that of O<g ref="char:EOLhyphen"/>bedience; And that therefore his Majeſty reſerv'd to himſelf that of experi<g ref="char:EOLhyphen"/>ence, leaving to them the other of Obedience.</hi> Then turning himſelf to Monſieur <hi>Servine</hi> ſaid to him particularly. <hi>You think your ſelf won<g ref="char:EOLhyphen"/>drous wiſe in propoſing that the Jeſuits ſhould not acknowledge their General in</hi> Italy. <hi>And where I pray have you learnt Mr. Wiſeacres, that there is a Body without a Head, or a Company without a Captain. Five or ſix Or<g ref="char:EOLhyphen"/>ders, which we have in</hi> France, <hi>peaceably own their Generals, yea though they be Spaniards.</hi> You after ſay that the <hi>Jeſuits hitherto have not been re<g ref="char:EOLhyphen"/>ceived but with a Proviſo; this is true, but this is a favour God has been pleas'd to beſtow on me, having reſerv'd for me to admit them and establiſh them at the ſame time, that they may be the more oblig'd and the more affecti<g ref="char:EOLhyphen"/>onate to me.</hi>
+            </p>
+            <p>Monſieur <hi>Servin</hi> replyed that whatever he had done in this Af<g ref="char:EOLhyphen"/>fair, was for the ſervice of his Majeſty, and thereupon call'd Hea<g ref="char:EOLhyphen"/>ven and Earth to witneſs that he had no other Deſign but to ſerve the Kings Family, for whom the King (as his manner was) had an anſwer ready. <hi>If you manage my Affairs no better than you have done your own, they will come to no good end, ſeeing you could have no quiet<g ref="char:EOLhyphen"/>neſs
+<pb n="9" facs="tcp:61379:5"/> with the two Wives, and the Son it pleaſed God to give you.</hi>
+            </p>
+            <p>Now after many other paſſages, too long here to be related, the King ſaid to them, this is Wedneſday, to morrow Thurſday, if this day you make not your Concluſions, you ſhall be none of my Officers to morrow. And if this Court of Parliament ſhall think fit, I ſhall re-imburſe the money to thoſe that paid for their Places. And in the places they held from me, I ſhall ſubſtitute others, who ſhall be more uſeful, and more obedient to me than I find you are.</p>
+            <p>Monſieur <hi>Servine</hi> went away in a heat, ſaying, he <hi>ſhould do ac<g ref="char:EOLhyphen"/>cording to his Conſcience.</hi> The King ſaid if ſo be that you have a Hu<g ref="char:EOLhyphen"/>gonote Conſcience, ſhew it, for I ſhall force no body. Whilſt this paſt they ſlunk away one after another, the King however con<g ref="char:EOLhyphen"/>tinued all in anger, and for an hour after ceaſed not to complain of the inſolence of the aforeſaid Officers. And Father <hi>Cotton</hi> by chance finding him, endeavoured particularly to Excuſe the Attor<g ref="char:EOLhyphen"/>ny General to his Majeſty, ſaying of him, that he was forced for peace ſake to temporiſe with his Companions. And why, ſaid the King, ſhould not he rather comply and temporiſe with me, than with his Companions? I take it ill from him, becauſe he ought only to demand their Opinions, not to follow their Concluſions, I advis'd him of this, and yet he would do nothing.</p>
+            <p>Theſe words were of ſuch Efficacy, that the very ſame day, after dinner, the Parliament met again, and made their Conclu<g ref="char:EOLhyphen"/>ſion. The Chancellor would ſee it in Writing, and he advis'd his Majeſty to ſend and command Monſieur <hi>de Metz</hi> to be preſent the next day, when the Court of Parliament ſat, there to aſſiſt at the verification of his Edict. Which was done the ſecond of the year, 1604. whereby we are clearly and ſimply eſtabliſhed, according to the Kings Will, He would not ſuffer to be added, that Clauſe of Violence, <hi>Expreſſimo mandato Regis.</hi>
+            </p>
+            <p>Juſt upon the nick, as this Edict was verified, came two ſwing<g ref="char:EOLhyphen"/>ing Slanders from the Hugonots againſt us, The one was by the means of an Apoſtate, lately a Dominican Fryer, who confeſs'd he was ſuch, and who, as he pretended, came Poſt from <hi>Castres</hi> to adviſe the King that a certain Jeſuit came from <hi>Perpignon</hi> to murder the King, ſaying, he knew him by ſight.</p>
+            <p>This news was brought to the King one afternoon, when he kept his Chamber for a Catarrh, having Father <hi>Cotton</hi> alone with him at his Beds-head, to whom he turning and ſmiling ſaid, it may be that you are he, who ſtand there ready to give the Blow. And
+<pb n="10" facs="tcp:61379:6"/> on this occaſion the King was very eloquent and enlarged on the inſolence of theſe falſe Reports, and Inventions that are ſcattered about and ſpread over the Kingdom, and propoſed Remedies he would have uſed. And immediately he ordered the ſaid Apoſtate to be carried to Monſieur <hi>Villeroy</hi> by Monſieur <hi>de la Force,</hi> who had brought the news. Which Apoſtate was heard, and after put into a Goalers hands, who carried him about the Streets all over <hi>Paris</hi> to ſee if he could meet his pretended Jeſuit. And now the good man began to ſay that he would not be very confident, that 'twas a Jeſuit, but that he ſuppoſed him one, becauſe he had ſeen him walk a kind of a modeſt gate. And he us'd what means he could poſſibly, by the Hugonots, to get his Liberty, that he might be gone into his own Country again.</p>
+            <p>The other Slander was, that the King had word from <hi>England,</hi> that Father <hi>Cotton</hi> had ſent Letters into <hi>England</hi> to exhort the Catho<g ref="char:EOLhyphen"/>licks there, to be all of good Courage, for that the King of <hi>France</hi> would be their Protector againſt all perſons whatſoever. To which his Majeſty anſwered that he believed not a little of it, that Fa<g ref="char:EOLhyphen"/>ther <hi>Cotton</hi> he knew was more wiſe and cautious, giving order that his Ambaſſador ſhould inform the King of <hi>England</hi> from him to that effect.</p>
+            <p>But on the other hand as divine Providence always brings about in ſeaſon, the means to effect what it has pre-ordained. It pleas'd God that the Conſtable of <hi>Caſtile</hi> in thoſe days paſs'd by <hi>Paris,</hi> and there being with him one of the Spaniſh Fathers of the Society of Jeſus; This Father deſirous to ſee the face of the King of <hi>France,</hi> having heard of the Zeal he profeſs'd to have for the Catholick Religion, and for us: He was introduced by Father <hi>Cotton</hi> to his Majeſty; who amongſt other queſtions demanded of him how many Jeſuits there were in <hi>Spain,</hi> he anſwered there might be three thouſand five hundred compriſing thoſe of <hi>Peru.</hi> I would, ſaid the King, that there were ſo many in <hi>France,</hi> and ſo after ſome diſcourſe diſmiſt him, as alſo did the Queen, full of content, and admiration, who could not after a long time be ſatisfied with his Diſcourſe, ſaying to Father <hi>Cotton, O quantum beneficium contuliſti ſo<g ref="char:EOLhyphen"/>cietati.</hi>
+            </p>
+            <p>It would now be tedious to relate all the King has done towards having the College open'd, which he has founded near <hi>Anjou;</hi> and how thoſe of our Society, that go thither, are careſſed. The De<g ref="char:EOLhyphen"/>ſign, which of himſelf he has taken, to have his heart, and that of the Queen buried in a Church, which he is building there,
+<pb n="11" facs="tcp:61379:6"/> the Seminaries of Schollars, the Univerſity, that he will erect, which ſhall altogether be governed by us.</p>
+            <p>And how graciouſly he has received the Supplications of ſeveral Cities who have deſired Colleges of us.</p>
+            <p>And for that accident of the wound given to Father <hi>Cotton,</hi> he has ſhew'd himſelf ſo full of Charity, in taking care about him, that his own Phyſicians attend him, that he have Diet from his own Table, nor would let him have Medicines, but from his own Cloſet, beſides the Proclamations, and all the Diligences uſed to find out the Malefactor, are above Imagination. But it has pleaſed God that Father <hi>Cotton</hi> is miraculouſly recovered, without ſo much as a Fever, and the Wound had not touched either Ten<g ref="char:EOLhyphen"/>don or any Inſtrument of the Voyce, ſo that within thirteen days he Preach'd before the King, and continues Preaching.</p>
+            <p>As for our College at <hi>Paris,</hi> his Majeſty has a ſtrong Deſign to enlarge it with other Colleges.</p>
+            <p>Things go ſo well that we have reaſon to thank God infinitely, and to pray for this moſt Chriſtian King, and all his, and truly to acknowledge that <hi>Deus eſt major Corde noſtro, ipſi ſoli Gloria.</hi>
+            </p>
+         </div>
+         <div type="notice">
+            <head>Advertiſement.</head>
+            <p>HIV. had been bred in the reformed Religion, and (for Rea<g ref="char:EOLhyphen"/>ſons beſt known to himſelf) turn'd to the Popiſh. But that Party, whether ſuſpecting his Sincerity, or that they were more ſure of the Guiſes, whom they aim'd to ſucceed him, ſought all means to cut him off. Hiſtorians reckon in all fifty At<g ref="char:EOLhyphen"/>tempts upon his Perſon.</p>
+            <p>A Pyramid had been Erected, on which was engraven the Sen<g ref="char:EOLhyphen"/>tence againſt <hi>Chaſtel,</hi> and the other Cauſes of the Jeſuits Baniſhment. But Father <hi>Cotton</hi> having inſinuated, and got in, to be always about the Kings Perſon, he (whether inchaunted by <hi>Cotton,</hi> or what o<g ref="char:EOLhyphen"/>ther caprice mov'd him) cauſed the Pyramid to be demoliſhed and the Jeſuits to be reſtored, notwithſtanding all the earneſt Remon<g ref="char:EOLhyphen"/>ſtrances of his Univerſity, and of his Parliament to the contra<g ref="char:EOLhyphen"/>ry.</p>
+            <pb n="12" facs="tcp:61379:7"/>
+            <p>His Conduct in this Affair ſhewed what great Opinion he had of his own Sufficiency and King-Craft. And his manner of treat<g ref="char:EOLhyphen"/>ing his Parliament paſſed for an extraordinary piece of wit, till af<g ref="char:EOLhyphen"/>terwards that <hi>Ravilliac</hi> came with an unlucky hand and ſpoiled the Jeſt.</p>
+            <p>This Letter of our Jeſuits is Printed in the <hi>Teſoro Politico,</hi> but left out in the French and Latine Tranſlations.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:61379:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
